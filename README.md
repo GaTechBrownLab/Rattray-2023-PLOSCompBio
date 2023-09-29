@@ -1,6 +1,6 @@
 # Data Supplement for “Machine learning identification of **Pseudomonas aeruginosa** strains from colony image data” #
 
-Jennifer Rattray (1,2), Ryan Walden (3), Pedro Márquez-Zacarías (1,2,4) , Evgeniya Molotkova (1,2), Gabriel Perron (5,6), Claudia Solis-Lemus (7,8), Daniel Pimentel Alarcon (8,9), Sam P. Brown (1,2)
+Jennifer Rattray (1,2), Ryan J. Lowhorn (1,2), Ryan Walden (3), Pedro Márquez-Zacarías (1,2,4) , Evgeniya Molotkova (1,2), Gabriel Perron (5,6), Claudia Solis-Lemus (7,8), Daniel Pimentel Alarcon (8,9), Sam P. Brown (1,2)
 
 1. School of Biological Sciences, Georgia Institute of Technology, Atlanta, GA 30332, USA
 2. Center for Microbial Dynamics and Infection, Georgia Institute of Technology, Atlanta, GA 30332, USA
